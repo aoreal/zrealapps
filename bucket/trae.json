@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://lf-cdn.trae.ai/obj/trae-ai-sg/pkg/app/releases/stable/1.0.6771/win32/Trae-Setup-x64.exe",
-      "hash": "sha256:989AB5639C8C63490134A986EFA2F1C56A3F09FDCD2C4AE7FED5FCC448B5CB08"
+      "hash": "sha256:96754185CD058052E601D19DA5E6741953671E4613618C6976EADF59ED5A60A7"
     }
   },
   "bin": "Trae.exe",
