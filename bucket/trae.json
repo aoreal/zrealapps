@@ -5,7 +5,7 @@
   "license": "Unknown",
   "architecture": {
     "64bit": {
-      "url": "https://lf-cdn.trae.ai/obj/trae-ai-sg/pkg/app/releases/stable/1.0.6771/win32/Trae-Setup-x64.exe",
+      "url": "https://lf-trae.toscdn.com/obj/trae-ai-cn/pkg/app/releases/stable/1.0.6862/win32/Trae-Setup-x64.exe",
       "hash": "sha256:96754185CD058052E601D19DA5E6741953671E4613618C6976EADF59ED5A60A7"
     }
   },
